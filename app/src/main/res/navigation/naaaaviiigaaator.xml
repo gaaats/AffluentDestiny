@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/naaaaviiigaaator"
+    app:startDestination="@id/entttterFragment">
+
+    <fragment
+        android:id="@+id/entttterFragment"
+        android:name="com.kiloo.subwaysurfd.gimigimi.EntttterFragment"
+        android:label="fragment_entttter"
+        tools:layout="@layout/fragment_entttter" >
+        <action
+            android:id="@+id/action_entttterFragment_to_enddddddFragment"
+            app:enterAnim="@anim/onesignal_fade_in"
+            app:exitAnim="@anim/onesignal_fade_out"
+            app:popEnterAnim="@anim/onesignal_fade_in"
+            app:popExitAnim="@anim/onesignal_fade_out"
+            app:destination="@id/enddddddFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/enddddddFragment"
+        android:name="com.kiloo.subwaysurfd.gimigimi.EnddddddFragment"
+        android:label="fragment_endddddd"
+        tools:layout="@layout/fragment_endddddd" />
+
+</navigation>

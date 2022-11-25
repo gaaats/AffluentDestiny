@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_namefrgtgt">Live Aviator</string>
+    <string name="dfrgtapp_name__">Live\nAviator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="drgtdfrgtgtapp_name_author">© Live Aviator</string>
+
+    <string name="dfgtimage_chooserefrgt">Pick Your Image</string>
+    <string name="facebook_app_idfrgtgtg">807324063812309</string>
+    <string name="fb_login_protocol_scheme">fb807324063812309</string>
+</resources>
